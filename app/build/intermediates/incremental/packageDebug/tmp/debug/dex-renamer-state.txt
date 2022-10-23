@@ -1,0 +1,7 @@
+#Sun Oct 23 23:24:12 ICT 2022
+base.1=C\:\\Users\\User\\AndroidStudioProjects\\BacaanSholat-main\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\User\\AndroidStudioProjects\\BacaanSholat-main\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
